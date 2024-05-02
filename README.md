@@ -6,9 +6,6 @@
   - [Table of Contents 📋](#table-of-contents-)
   - [Introduction 🌐](#introduction-)
   - [Installation ⚙️](#installation-️)
-  - [Usage 🛠️](#usage-️)
-  - [Contributors 👥](#contributors-)
-  - [Contact 📬](#contact-)
 
 ## Introduction 🌐
 
@@ -22,23 +19,3 @@ This algorithm is then applied to Amazon Reviews data. After cleaning the data, 
 
 To set up this project, clone the repository and execute the `sentimentAnalyzer` function, providing a text string as input. The function will yield the sentiment of the text, returned as a string.
 
-## Usage 🛠️
-
-
-
-## Contributors 👥
-
-- Ryam Nasser AlMalki
-- Talyia Khalid Mira 
-
-## Contact 📬
-
-- Ryam Nasser AlMalki
-  - [Email]()
-  - [LinkedIn]()
-  - [GitHub]()
-
-- Ryam Nasser AlMalki
-  - [Email]()
-  - [LinkedIn]()
-  - [GitHub]()
